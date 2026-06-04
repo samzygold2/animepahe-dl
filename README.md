@@ -280,7 +280,7 @@ You can manually edit `config.json` to change defaults for quality, audio, threa
 **Configuration Options:**
 ```json
 {
-  "base_url": "https://animepahe.si",
+  "base_url": "https://animepahe.pw",
   "quality": "best",
   "audio": "jpn",
   "threads": 100,
